@@ -41,7 +41,6 @@ detection without manual expert review.
 | Random Forest | ~95%+ | — |
 | SVM | — | — |
 
-*(Fill in your actual numbers)*
 
 ---
 
